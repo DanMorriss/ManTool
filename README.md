@@ -384,9 +384,13 @@ On Windows type the following command for activation:
 venv\Scripts\activate
 ```
 
-Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
+Alternatively, you can also use other online IDEs; click the buttons below to create your own workspace using this repository.
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/DanMorriss/MenTool)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/DanMorriss/MenTool)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/DanMorriss/MenTool)
+[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/DanMorriss/MenTool)
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/DanMorriss/MenTool)
 
 ***
 
